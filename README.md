@@ -1,0 +1,2 @@
+# PicGo
+save bolg imagies
